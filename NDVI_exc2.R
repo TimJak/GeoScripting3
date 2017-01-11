@@ -1,3 +1,5 @@
+#Koen Veenenbos & Tim Jak
+
 rm(list=ls())
 
 download.file(url = 'https://github.com/dutri001/bfastSpatial/raw/master/data/tura.rda', destfile = "tura.rda", method = "auto")
